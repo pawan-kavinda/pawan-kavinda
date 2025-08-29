@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Full Stack Developer | Flutter Developer
-Hola! I'm a passionate and versatile full-stack developer with a strong foundation in both front-end and back-end technologies. My primary areas of expertise include the MERN stack, .NET framework, and Flutter for mobile app development. I thrive on building scalable, high-performance applications and love tackling new challenges that push my technical limits.
+Hola! I'm a passionate and versatile full-stack developer with a strong foundation in both front-end, mobile development and back-end technologies. My primary areas of expertise include the MERN stack, .NET framework, and Flutter/react-native for mobile app development. I thrive on building scalable, high-performance applications and love tackling new challenges that push my technical limits.
 
 
 ## 🌐 Socials:
